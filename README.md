@@ -14,6 +14,7 @@ git clone https://github.com/Mahek98/AdaptavistSolutionSubmission.git
 1.Navigate to the directory where repo is cloned on local system.
 
 2.Run the code file , it will prompt to enter the file name you want to test
+
     java -cp src wordcount 
 
 3.Run the test file
